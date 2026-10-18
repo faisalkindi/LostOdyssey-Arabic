@@ -19,7 +19,7 @@
 
 ## العربية
 
-**ماذا يعرّب؟** نصوص اللعبة كلها، أكثر من 75 ألف سطر مترجمة عن النص الياباني الأصلي: الحوارات، الترجمة أسفل المشاهد، القوائم، الأدوات والمهارات، رسائل المعارك، أحلام الألف عام، الإنجازات، وصور الشروح. الصوت ياباني.
+**ماذا يعرّب؟** نصوص اللعبة كلها، 28,530 سطرًا مترجمة عن النص الياباني الأصلي: الحوارات، الترجمة أسفل المشاهد، القوائم، الأدوات والمهارات، رسائل المعارك، أحلام الألف عام، الإنجازات، وصور الشروح. الصوت ياباني.
 
 **المميزات**
 - العربية لغة جديدة في Settings ← System ← Game language، ولا تستبدل أي لغة.
@@ -43,7 +43,7 @@
 
 ## English
 
-**What it covers.** All of the game's text, over 75,000 lines translated from the original Japanese script: dialogue, subtitles, menus, items and skills, battle messages, the Thousand Years of Dreams, achievements and the tutorial pictures. Voices stay Japanese.
+**What it covers.** All of the game's text, 28,530 lines translated from the original Japanese script: dialogue, subtitles, menus, items and skills, battle messages, the Thousand Years of Dreams, achievements and the tutorial pictures. Voices stay Japanese.
 
 **Features**
 - Arabic is a new choice in Settings → System → Game language; no language is replaced.
