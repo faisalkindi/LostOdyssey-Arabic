@@ -1,0 +1,35 @@
+Lost Odyssey - التعريب الكامل (تثبيت يدوي)
+Lost Odyssey - Arabic Localization (manual install)
+الإصدار / Version: 1.0.0   ·   من عالم إنْما / By Enma World: enmaworld.com
+
+-- المتطلبات --------------------------------------------------
+LostOdysseyRecomp (نسخة PC من اللعبة) بأحدث إصدار، مع ملفات اللعبة مثبّتة
+وتعمل:
+  https://github.com/freefrank/LostOdysseyRecomp/releases
+النسخ القديمة تعرض النص من اليسار ولا تترجم أحلام الألف عام.
+
+-- التثبيت اليدوي ---------------------------------------------
+1. أغلق اللعبة.
+2. انسخ المجلد mods من هذا الملف المضغوط إلى مجلد اللعبة، أي المجلد الذي
+   فيه LostOdysseyRecomp.exe. وافق على الدمج إن سُئلت. النتيجة: mods\ar
+   و mods\ar-images (صور الشروح بالعربية) بجانب LostOdysseyRecomp.exe.
+3. شغّل اللعبة، وافتح Settings ← System ← Game language، واختر «العربية»،
+   ثم Save settings وأعد تشغيل اللعبة.
+4. إن كانت عندك حزمة الصور عالية الدقة (hd-textures-4x): افتح
+   Settings ← System ← Mods وانقل ar-images فوقها ثم Save، وإلا بقيت صور
+   الشروح باليابانية.
+
+التعريب مبني على النسخة اليابانية: الصوت ياباني والنصوص كلها بالعربية.
+لا تُعدَّل ملفات اللعبة الأصلية.
+
+-- الإزالة ----------------------------------------------------
+احذف المجلدين mods\ar و mods\ar-images، أو شغّل المثبّت exe واضغط «إزالة اللغة العربية».
+ثم اختر لغة أخرى من Settings ← System ← Game language.
+
+-------------------------------------------------------------------
+English: close the game, copy the mods folder from this zip into the folder that
+holds LostOdysseyRecomp.exe (you get mods\ar and mods\ar-images next to the exe),
+start the game, then Settings > System > Game language > العربية, Save settings
+and restart. With the HD texture pack, move ar-images above it in Settings >
+System > Mods and save, or the tutorial pictures stay Japanese.
+Needs a current LostOdysseyRecomp release. Japanese voices, Arabic text.

@@ -1,0 +1,10 @@
+# Only the README, the installer's source and the release media are published.
+/*
+!/.gitignore
+!/README.md
+!/release_media/
+!/installer/
+/installer/bin/
+/installer/obj/
+/installer/pub/
+/installer/payload.zip
