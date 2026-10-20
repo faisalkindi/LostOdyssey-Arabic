@@ -24,6 +24,7 @@
 **المميزات**
 - العربية لغة جديدة في Settings ← System ← Game language، ولا تستبدل أي لغة.
 - خط اليمامة مضاف إلى خطوط اللعبة نفسها، بحروف موصولة سليمة.
+- الحروف العربية والأرقام بدقة أعلى بأربع مرات، فتبقى حادّة على شاشات 4K.
 - النص من اليمين إلى اليسار مع بقاء تصميم الشاشات كما هو.
 - صور الشروح بالعربية بدل اليابانية.
 - لا يُعدَّل أي ملف من ملفات اللعبة الأصلية، والإزالة بنقرة واحدة.
@@ -48,6 +49,7 @@
 **Features**
 - Arabic is a new choice in Settings → System → Game language; no language is replaced.
 - The Alyamama font is added to the game's own fonts, with properly joined letters.
+- Arabic letters and the digits at four times the resolution, so text stays sharp on 4K screens.
 - Right-to-left text, with every screen keeping its original layout.
 - Tutorial pictures in Arabic instead of Japanese.
 - No original game file is modified. One-click uninstall.

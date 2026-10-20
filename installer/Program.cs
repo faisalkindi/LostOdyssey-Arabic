@@ -25,7 +25,7 @@ namespace LostOdysseyArabic
 {
     static class Program
     {
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
         public const string Exe = "LostOdysseyRecomp.exe";
         const string ModsDir = "mods";                                   // manifest paths are under it: ar/..., ar-images/...
         const string PackDir = @"mods\ar";

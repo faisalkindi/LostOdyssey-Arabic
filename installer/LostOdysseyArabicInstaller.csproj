@@ -7,8 +7,8 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <RootNamespace>LostOdysseyArabic</RootNamespace>
     <AssemblyName>Lost Odyssey Arabic Installer</AssemblyName>
-    <Version>1.0.0</Version>
-    <InformationalVersion>1.0.0</InformationalVersion>
+    <Version>1.0.1</Version>
+    <InformationalVersion>1.0.1</InformationalVersion>
     <Product>Lost Odyssey Arabic Localization</Product>
     <Authors>Enma World</Authors>
     <Company>Enma World</Company>

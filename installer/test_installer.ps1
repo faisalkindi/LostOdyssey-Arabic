@@ -16,8 +16,8 @@ param(
     [string]$MinVersion = '1.0.5'                        # the installer's MinRecomp
 )
 $ErrorActionPreference = 'Stop'
-$exe = 'C:\Users\Faisal\Ai\Mods Dev\LostOdyssey-Arabic\installer\pub\Lost Odyssey Arabic Installer.exe'
-$manual = 'C:\Users\Faisal\Ai\Mods Dev\LostOdyssey-Arabic\RELEASE\Lost Odyssey - Arabic v1.0.0 (Manual).zip'
+$exe = 'H:\Games\LostOdyssey-Arabic\installer\pub\Lost Odyssey Arabic Installer.exe'
+$manual = 'H:\Games\LostOdyssey-Arabic\RELEASE\Lost Odyssey - Arabic v1.0.1 (Manual).zip'
 $out = "$Base\out.txt"
 $fails = 0
 $settings = "ui_language=0`r`ngame_language=1`r`ngame_language_pack=`r`ndebug_language=0`r`nwidth=1920`r`n"
@@ -53,7 +53,7 @@ function Setting($g, $key) { (Get-Content -LiteralPath "$g\settings.ini" | Where
 $g = New-Game 'A' $NewExe; $s0 = Snap $g
 Run $g '--status'; Run $g '--install'
 Check ((Count $g) -eq 789) "789 pack files in mods\ar ($(Count $g))"
-Check ((Images $g) -eq 54) "54 files in mods\ar-images ($(Images $g))"
+Check ((Images $g) -eq 66) "66 files in mods\ar-images ($(Images $g))"
 Check (-not (Test-Path "$g\mod-list.ini")) 'no mod-list.ini created'
 Check ((Setting $g 'game_language') -eq '2' -and (Setting $g 'game_language_pack') -eq 'ar') 'settings.ini: game_language=2, game_language_pack=ar'
 Check ((Get-Content -LiteralPath "$g\settings.ini" -Raw) -match "width=1920`r`n$") 'settings.ini keeps its other lines and CRLF ends'
