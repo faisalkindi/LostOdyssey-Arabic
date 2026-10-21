@@ -22,7 +22,7 @@ ROOT = os.path.dirname(HERE)
 SHARE = os.path.join(ROOT, "build", "share")
 DEPLOYED = os.path.join(ROOT, "clean-1.0.2", "mods")
 PACKS = ("ar", "ar-images")
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 NAME = "Lost Odyssey - Arabic v" + VERSION
 
 

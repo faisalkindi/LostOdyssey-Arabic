@@ -17,7 +17,7 @@ param(
 )
 $ErrorActionPreference = 'Stop'
 $exe = 'H:\Games\LostOdyssey-Arabic\installer\pub\Lost Odyssey Arabic Installer.exe'
-$manual = 'H:\Games\LostOdyssey-Arabic\RELEASE\Lost Odyssey - Arabic v1.0.1 (Manual).zip'
+$manual = 'H:\Games\LostOdyssey-Arabic\RELEASE\Lost Odyssey - Arabic v1.0.2 (Manual).zip'
 $out = "$Base\out.txt"
 $fails = 0
 $settings = "ui_language=0`r`ngame_language=1`r`ngame_language_pack=`r`ndebug_language=0`r`nwidth=1920`r`n"
